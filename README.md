@@ -23,6 +23,7 @@ solving a problem.
     just for a particular set of input values.
     
 iii.**Algorithms Design Paradigm**
+
   i. Divide and Conquer
   ii. Greedy Algorithms
   iii. Dynamic Programming
