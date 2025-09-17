@@ -29,15 +29,16 @@ iii.**Algorithms Design Paradigm**
 
 iv.**Growth Function**
   - **Big-O Notation**
-    
 
+    [images/_Big O]
     
   - **Big-Omega Notation**
-
-
+    
+      [images/_Big Omega]
+    
   - **Big Theta Notation**
 
-
+    [images/_Big Theta]
 
 ## Purpose
 
