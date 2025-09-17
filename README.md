@@ -30,15 +30,18 @@ iii.**Algorithms Design Paradigm**
 iv.**Growth Function**
   - **Big-O Notation**
 
-    [images/_Big O]
+   <img width="936" height="214" alt="_Big O" src="https://github.com/user-attachments/assets/0e20753b-e89b-4e39-8ffa-088655cc3f14" />
+
     
   - **Big-Omega Notation**
-    
-      [images/_Big Omega]
+
+    <img width="931" height="206" alt="_Big Omega" src="https://github.com/user-attachments/assets/78ad71e8-834c-486e-9b57-f436fa0a9659" />
+
     
   - **Big Theta Notation**
 
-    [images/_Big Theta]
+    <img width="742" height="111" alt="_Big Theta" src="https://github.com/user-attachments/assets/2b8499b1-55a7-4da4-bb44-d1ad54877aeb" />
+
 
 ## Purpose
 
