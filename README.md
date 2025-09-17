@@ -30,7 +30,7 @@ iii.**Algorithms Design Paradigm**
 iv.**Growth Function**
   - **Big-O Notation**
 
-   <img width="936" height="214" alt="_Big O" src="https://github.com/user-attachments/assets/0e20753b-e89b-4e39-8ffa-088655cc3f14" />
+    <img width="936" height="214" alt="_Big O" src="https://github.com/user-attachments/assets/0e20753b-e89b-4e39-8ffa-088655cc3f14" />
 
     
   - **Big-Omega Notation**
