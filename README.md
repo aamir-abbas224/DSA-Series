@@ -67,7 +67,6 @@ iv.**Growth Function**
 This repository is designed to document my DSA journey.  
 It will include:
 - Core DSA concepts and definitions
-- Problem-solving approaches
 - Python implementations (to be added gradually)
 
 The goal is to consolidate learning, track progress, and provide a reference for both myself and others.
