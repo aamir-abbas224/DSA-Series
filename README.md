@@ -106,7 +106,7 @@ The goal is to consolidate learning, track progress, and provide a reference for
 
 
 
-> Each concept will eventually include **Python code implementations** with example problems and complexity analysis.
+> Each concept will eventually include **Python code implementations**.
 
 ## Progress Tracker
 
