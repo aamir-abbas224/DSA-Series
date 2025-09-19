@@ -88,7 +88,20 @@ The goal is to consolidate learning, track progress, and provide a reference for
 
   - **Node**: A node is a container of data,together with one or more links to other nodes. A link is a pointer. A simple type of node is one that only has a link to the next node.
 
-  - **Singly Linked List**: A singly linked list is list with only one pointer between two successive nodes. It can only be traversed in a single direction that is from the first node to the last.  
+  - **Singly Linked List**: A singly linked list is list with only one pointer between two successive nodes. It can only be traversed in a single direction that is from the first node to the last.
+                            -Funtionality included : Prepend, Appending , Deleting , Size , Iterating, Search and Clear methods
+
+  -**Doubly Linked List**: A Doubly Linked List is similar to the Sinly Linked List which uses same fundamentals. A node in doubly linked list has two pointerrs - a pointer to the next node and a pointer to the previous node.
+                           Since it has a reference to previous data/node it can be traversed in any direction , deletion operation are much easier to perfrom.
+                           -Funtionality included : Prepend, Appending , Deleting , Size , Iterating, Search and Clear methods
+
+  - **Circular Linked List**: It is a type of list where the endpoits are connected. That is the last node points to the head of the list. They can be based on both Singly or Doubly.
+                              -Funtionality included : Prepend, Appending , Deleting , Size , Iterating, Search and Clear methods
+
+  - **Stacks**: A stack is a linear data structure that follows LIFO(Last in First Out).the two primary operation that are done on stacks are 'push' & 'pop' and another operation used sometimes is 'peek'.
+
+  - **Queues**:   
+      
   
 
 
@@ -98,7 +111,7 @@ The goal is to consolidate learning, track progress, and provide a reference for
 
 ## Progress Tracker
 
-- [ ] Arrays
+- [✅] Arrays
 - [ ] Strings 
 - [ ] Linked Lists  
 - [ ] Stacks & Queues  
