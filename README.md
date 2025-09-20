@@ -85,6 +85,7 @@ This repository documents my DSA journey and will include:
 The goal is to consolidate learning, track progress, and provide a reference for both myself and others.
 
 > Each concept will eventually include **Python code implementations**.
+> File and navigation structure will be added once the basic DSA has been added.
 
 ---
 
