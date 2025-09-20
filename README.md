@@ -99,7 +99,7 @@ The goal is to consolidate learning, track progress, and provide a reference for
 
   - **Stacks**: A stack is a linear data structure that follows LIFO(Last in First Out).the two primary operation that are done on stacks are 'push' & 'pop' and another operation used sometimes is 'peek'.
 
-  - **Queues**:   
+  - **Queues**:
       
   
 
