@@ -94,7 +94,7 @@ The goal is to consolidate learning, track progress, and provide a reference for
 - [✅] Arrays  
 - [ ] Strings  
 - [✅] Linked Lists  
-- [ ] Stacks & Queues  
+- [✅] Stacks & Queues  
 - [ ] Trees  
 - [ ] Graphs  
 - [ ] Dynamic Programming  
