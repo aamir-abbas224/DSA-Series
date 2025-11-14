@@ -92,7 +92,6 @@ The goal is to consolidate learning, track progress, and provide a reference for
 ## **Progress Tracker**
 
 - [✅] Arrays  
-- [ ] Strings  
 - [✅] Linked Lists  
 - [✅] Stacks & Queues  
 - [ ] Trees  
