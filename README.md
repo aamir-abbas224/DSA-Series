@@ -79,7 +79,7 @@ Characterizes an algorithm’s runtime:
 
 This repository documents my DSA journey and will include:  
 
-- Core **DSA concepts and definitions**  
+- All **DSA concepts and definitions** (that i will learn)!  
 - **Python implementations** (added gradually)  
 
 The goal is to consolidate learning, track progress, and provide a reference for both myself and others.
